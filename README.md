@@ -1,51 +1,62 @@
-<h3 align="center">
-  :sparkles: ℍ𝕖𝕪! 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕄𝕖𝕣𝕖𝕕𝕚𝕥𝕙'𝕤 𝕟𝕖𝕣𝕕𝕪 𝕓𝕣𝕒𝕚𝕟 𝕔𝕖𝕝𝕝 :sparkles:
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rizqiansyah</h1>
+<h3 align="center">I'm a Data Scientist who is passionate about deriving insights and finding patterns from data for the purpose of making data-driven decisions.</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=International%20Artist%20and%20Professional%20Photographer;Independent%20Model%20and%20Designer;Data%20Scientist;7%20Years%20of%20Photography%20Experience&font=Fira%20Code&center=true&width=840&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Scientist;Machine%20Learning%20Engineer;Data%20Analyst;Front%20End%20Developer&font=Fira%20Code&center=true&width=840&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-<!-- **ℝ𝕖𝕒𝕔𝕙 𝕞𝕖 𝕒𝕥**   <a href='wang.meredith09@gmail.com' target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-orange?style=flat&logo=gmail&labelColor=white" alt="meredith-wang" /></a> -->
+
+## 🙋‍♂️ About Me
+
+- 🔭 I’m currently working on **[Customer Churn Detection Project](https://github.com/RizqiSeijuuro/Customer-Churn-Detection)**
+
+- 🌱 I enjoy exploring **Machine Learning models, Data Analytics as well as Data Structures and Algorithms.**
+
+- 👯 I’m a **Team Player**
+
+- 👨‍💻 All of my projects are available at **[My Portfolio [Still Constructing]](https://github.com/RizqiSeijuuro)**
+
+- 📫 How to reach me **rizqiansyah52@gmail.com**
+
+- ⚡ Fun fact; **I love playing basketball.**
+
+
+
+<!-- **ℝ𝕖𝕒𝕔𝕙 𝕞𝕖 𝕒𝕥**   <a href='rizqiansyah52@@gmail.com' target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-orange?style=flat&logo=gmail&labelColor=white" alt="muhammad-rizqiansyah" /></a> -->
 
 **𝗜'𝗺 𝗮𝗹𝘀𝗼 𝗼𝗻...**
 
-<a href="https://public.tableau.com/app/profile/m3redithw" target="blank"><img align="center" src="https://img.shields.io/badge/Tableau-lightblue?style=flat&logo=tableau&labelColor=black" alt="meredith-wang" /></a>
+<a href="https://public.tableau.com/app/profile/muhammad.rizqiansyah" target="blank"><img align="center" src="https://img.shields.io/badge/Tableau-lightblue?style=flat&logo=tableau&labelColor=black" alt="muhammad-rizqiansyah" /></a>
 
-<a href="https://www.linkedin.com/in/m3redithw/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=black" alt="meredith-wang" /></a>
+<a href="https://www.linkedin.com/in/muhammad-rizqiansyah/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=black" alt="muhammad-rizqiansyah" /></a>
 
-<a href="https://medium.com/@m3redithw" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium&labelColor=black" alt="meredith-wang" /></a>
+<a href="https://medium.com/@rizqiansyah" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium&labelColor=black" alt="muhammad-rizqiansyah" /></a>
 
-<a href="https://www.instagram.com/m3redithw/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram&labelColor=black" alt="meredith-wang" /></a>
+<a href="https://www.instagram.com/_rizqiansyah/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram&labelColor=black" alt="muhammad-rizqiansyah" /></a>
 
-<!-- <a href="https://www.pinterest.com/m3redithw/" target="blank"><img align="center" src="https://img.shields.io/badge/Pinterest-D22B2B?style=flat&logo=pinterest&labelColor=black" alt="meredith-wang" /></a> -->
+<!-- <a href="https://www.pinterest.com/muhammadrizqiansyah/" target="blank"><img align="center" src="https://img.shields.io/badge/Pinterest-D22B2B?style=flat&logo=pinterest&labelColor=black" alt="muhammad-rizqiansyah" /></a> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3redithw&hide=Jupyter-Notebook&layout=compact&theme=radical)](https://github.com/m3redithw)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizqiseijuuro&hide=Jupyter-Notebook&layout=compact&theme=radical)](https://github.com/rizqiseijuuro)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m3redithw&theme=dracula)](https://git.io/streak-stats)
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<!-- ![Meredith's GitHub stats](https://github-readme-stats.vercel.app/api?username=m3redithw&show_icons=true&theme=dracula) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rizqiseijuuro&theme=dracula)](https://git.io/streak-stats)
 
-𝗠𝗲𝗲𝘁 𝗺𝘆 𝗰𝗼𝗱𝗶𝗻𝗴 𝗯𝘂𝗱𝗱𝘆 𝗢𝗿𝗲𝗼 (ɔ◔‿◔)ɔ 💜
+<!-- ![Rizqiansyah's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizqiseijuuro&show_icons=true&theme=dracula) -->
 
-![oreo](https://user-images.githubusercontent.com/105242871/188337285-f88debe9-168d-4964-8259-cd7745354311.jpg)
 
-![](https://komarev.com/ghpvc/?username=your-github-m3redithw&color=66CDEB)
+![](https://komarev.com/ghpvc/?username=your-github-rizqiseijuuro&color=66CDEB)
 
 ## 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 <p align="left">
-  <a href="https://github.com/m3redithw/Linked-inSight"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=Linked-inSight&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Linked-inSight"></a>
-  <a href="https://github.com/m3redithw/Potato-Disease-Image-Classification"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=Potato-Disease-Image-Classification&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Potato-Disease-Image-Classification"></a>
-  <a href="https://github.com/MBM-nlp/github_classification_project"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=MBM-nlp&repo=github_classification_project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="The-Metaverse"></a>
-  <a href="https://github.com/JML-Association/Anomaly-Detection-Project"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=JML-Association&repo=Anomaly-Detection-Project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Anomaly-Detection-Project"></a>
-  <a href="https://github.com/m3redithw/Zestimates-Clustering-Project"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=Zestimates-Clustering-Project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Zestimates-Clustering-Project"></a>
-  <a href="https://github.com/m3redithw/Home-Value-Prediction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=Home-Value-Prediction&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Home-Value-Prediction"></a>
-  <a href="https://github.com/m3redithw/Customer-Churn-Prediction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=Customer-Churn-Prediction&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Customer-Churn-Prediction"></a>
+  <a href="https://github.com/RizqiSeijuuro/walmart-weekly-sales-prediction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=rizqiseijuuro&repo=walmart-weekly-sales-prediction&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Predict-Weekly-Sales"></a>
+  <a href="https://github.com/RizqiSeijuuro/Customer-Churn-Detection"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=rizqiseijuuro&repo=Customer-Churn-Detection&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Customer-Churn-Detection"></a>
   
 
 <p align="left">
-  <a href="https://github.com/m3redithw?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/rizqiseijuuro?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
 ## 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗥𝗲𝘀𝗼𝘂𝗿𝗰𝗲𝘀
@@ -57,12 +68,12 @@
   <a href="https://github.com/m3redithw/Distributed-Computing-with-Spark-SQL"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=Distributed-Computing-with-Spark-SQL&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Distributed-Computing-with-Spark-SQL"></a>
 
 <p align="left">
-  <a href="https://github.com/m3redithw?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/rizqiseijuuro?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
 ***
 
-## 𝗠𝘆 𝗙𝗮𝘃𝗼𝗿𝗶𝘁𝗲 𝗧𝗼𝗼𝗹𝘀
+## 🚀 𝗠𝘆 𝗙𝗮𝘃𝗼𝗿𝗶𝘁𝗲 𝗧𝗼𝗼𝗹𝘀
 
 #### 💻 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀
  
@@ -98,8 +109,6 @@
 
 #### 🛠️ 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀
 
-<a href="#"><img alt="OS-Mac" src="https://img.shields.io/badge/-OC%20Mac-555555?logo=apple&logoColor=white"></a>
-<a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-0C1719?logo=intellij-idea&logoColor=white"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-182E33.svg?logo=git&logoColor=white"></a>
 <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-25454C.svg?logo=tableau&logoColor=white"></a>
 <a href="#"><img alt="R Studio" src="https://img.shields.io/badge/R Studio-315C66.svg?logo=RStudio&logoColor=white"></a>
@@ -107,14 +116,12 @@
 <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-4A8B99.svg?logo=Jupyter&logoColor=white"></a>
 <a href="#"><img alt="Databricks" src="https://img.shields.io/badge/Databricks-56A2B2.svg?logo=Databricks&logoColor=white"></a>
 <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-63B9CC?logo=stack-overflow&logoColor=white"></a>
-<a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime%20Text-6FD0E5?logo=sublime-text&logoColor=white"></a>
 <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-7ce8ff.svg?logo=Trello&logoColor=white"></a>
 <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-89EAFF.svg?logo=google%20sheets&logoColor=white"></a>
-![](https://img.shields.io/badge/Adobe%20Creative%20Cloud-96ECFF?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white) ![](https://img.shields.io/badge/Adobe%20Illustrator-A3EEFF?style=flat&logo=adobe%20illustrator&logoColor=white) ![](https://img.shields.io/badge/Adobe%20InDesign-B0F1FF?style=flat&logo=Adobe%20InDesign&logoColor=white) ![](https://img.shields.io/badge/Adobe%20Lightroom-BDF3FF?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![](https://img.shields.io/badge/Adobe%20Photoshop-CAF5FF?style=flat&logo=Adobe%20Photoshop&logoColor=black) ![](https://img.shields.io/badge/Adobe%20Premiere%20Pro-D7F8FF?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![](https://img.shields.io/badge/Adobe%20XD-E4FAFF?style=flat&logo=Adobe%20XD&logoColor=black) ![](https://img.shields.io/badge/Canva-F1FCFF.svg?&style=flat&logo=Canva&logoColor=white)
 
 ***
-## 𝗚𝗶𝘁𝗛𝘂𝗯'𝘀 𝗦𝘁𝗮𝘁𝘀
-[![Meredith's github activity graph](https://activity-graph.herokuapp.com/graph?username=m3redithw&theme=monokai&timezone=timezone['America/Honolulu'])](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 📊 𝗚𝗶𝘁𝗛𝘂𝗯'𝘀 𝗦𝘁𝗮𝘁𝘀
+[![Rizqiansyah's github activity graph](https://activity-graph.herokuapp.com/graph?username=rizqiseijuuro&theme=monokai&timezone=timezone['America/Honolulu'])](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- 
 <p align="center">
   <img src="https://github.com/m3redithw/m3redithw/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
