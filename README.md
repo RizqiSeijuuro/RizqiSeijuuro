@@ -59,13 +59,10 @@
   <a href="https://github.com/rizqiseijuuro?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
-## 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗥𝗲𝘀𝗼𝘂𝗿𝗰𝗲𝘀
+## 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 Learning
 <p align="left">
-  <a href="https://github.com/m3redithw/Machine-Learning-Specialization"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=Machine-Learning-Specialization&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Machine-Learning-Specialization"></a>
-  <a href="https://github.com/m3redithw/Google-Data-Analytics"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=Google-Data-Analytics&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Google-Data-Analytics"></a>
-  <a href="https://github.com/m3redithw/Data-Visualization-with-Tableau"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=Data-Visualization-with-Tableau&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Data-Visualization-with-Tableau"></a>
-  <a href="https://github.com/m3redithw/Python-3-Programming-Specialization"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=Python-3-Programming-Specialization&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Python-3-Programming-Specialization"></a>
-  <a href="https://github.com/m3redithw/Distributed-Computing-with-Spark-SQL"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=Distributed-Computing-with-Spark-SQL&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Distributed-Computing-with-Spark-SQL"></a>
+  <a href="https://github.com/RizqiSeijuuro/accelerated-machine-learning"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=RizqiSeijuuro&repo=accelerated-machine-learning&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="accelerated-machine-learning"></a>
+  <a href="https://github.com/RizqiSeijuuro/learn-streamlit"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=RizqiSeijuuro&repo=learn-streamlit&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="learn-streamlit"></a>
 
 <p align="left">
   <a href="https://github.com/rizqiseijuuro?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
