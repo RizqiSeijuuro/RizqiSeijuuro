@@ -119,8 +119,8 @@
 <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-89EAFF.svg?logo=google%20sheets&logoColor=white"></a>
 
 ***
-## 📊 𝗚𝗶𝘁𝗛𝘂𝗯'𝘀 𝗦𝘁𝗮𝘁𝘀
-[![Rizqiansyah's github activity graph](https://activity-graph.herokuapp.com/graph?username=rizqiseijuuro&theme=monokai&timezone=timezone['America/Honolulu'])](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 📈 GitHub Activity Graph
+[![Rizqiansyah's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rizqiseijuuro&theme=github-compact)](https://github.com/BEPb/github-readme-activity-graph)
 <!-- 
 <p align="center">
   <img src="https://github.com/m3redithw/m3redithw/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
